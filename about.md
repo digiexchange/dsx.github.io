@@ -17,7 +17,7 @@ We help increase the safety and security of community-based organizations, legal
 # **How we work**                        	 
 
 **We are advocates for organizations in need of digital security assistance.** As such, we will work with those organizations to identify resources to enable them to conduct this work with participating providers. We provide support for building awareness, capacity, and skills to those who wish to jumpstart or accelerate their digital security work.
-                                                                                                    Our intake and evaluation process ensures organizations are matched with participating digital security experts who best serve their contexts, needs, and goals.
+                                                                                            Our intake and evaluation process ensures organizations are matched with participating digital security experts who best serve their contexts, needs, and goals.
 
 Our staff works closely with the organizations and digital security providers we connect to ensure the highest quality service delivery.
 
@@ -25,7 +25,7 @@ When engagements are complete, we request voluntary feedback and incorporate fin
 
 **Whenever possible, we seek to refer organizations to providers within their communities as a first response.** We believe that the digital security providers who are already working within their own communities and are best equipped to meet the needs of those communities. We are here as a technical assistance and knowledge source, for those seeking additional support.
 
-**We seek out, listen to, and partner with digital security providers from across many different contexts in order to inform and shape our work.** Providers must explicitly opt-in to the exchange in order to be connected to organizations in need of assistance.
+**We seek out, listen to, and partner with digital security providers from across many different contexts in order to inform and shape our work.** We prioritize working with those who have worked with or within civil society and the social sector, and who understand the needs, environment, and culture of these groups. Providers must explicitly opt-in to the exchange in order to be connected to organizations in need of assistance.
 
 **We equally balance the human and technology aspects of digital security management and provide frameworks to support change. Each organization we work with has different needs.** We place high attention to clearly defining what is most important to accomplish and making connections that directly address those goals, be they culture, process, or technology-based.
 
