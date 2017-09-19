@@ -21,4 +21,4 @@ Josh is a longtime campaign strategist and digital rights advocate. For more tha
 **Danny O'Brien**, International Director at EFF. Previously, Danny
 headed the Internet Program at the Committee to Protect Journalists.  
 
-**Jamie Tomasello**, Manager, Trust and Compliance at Duo Security. Previously, Jamie has been the Technology Director for Access Now, Head of Policy and Investigation at Cloudflare, and is a Certified Information Privacy Professional (CIPP) and Certified Information Privacy Technologist (CIPT).
+**Jamie Tomasello**, Manager, Trust and Compliance at Duo Security. Previously, Jamie has been the Technology Director for Access Now and Head of Policy and Investigation at Cloudflare, and is a Certified Information Privacy Professional (CIPP) and Certified Information Privacy Technologist (CIPT).
