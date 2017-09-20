@@ -16,7 +16,7 @@
 title: Digital Security Exchange (DSX)
 email: info@digitalsecurityexchange.org
 description: > # this means to ignore newlines until "baseurl:"
-  If you are an organization seeking digital security assistance, or a provider looking to help, you can contact us via email. More contact options coming soon. 
+  If you are an organization seeking digital security assistance, or a provider looking to help, you can contact us via email or Signal. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
