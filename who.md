@@ -16,9 +16,10 @@ Josh is a longtime campaign strategist and digital rights advocate. For more tha
 
 **Matt Holland,** co-founder of Affinity.works. Tech advisor to international NGO's, previously CTO at Avaaz.org.
 
-**Harlo Holmes,** Director of Newsroom Digital Security at Freedom of the Press Foundation. Harlo is a media scholar, software programmer, and activist and contributes regularly to the open source mobile security collective The Guardian Project. 
+**Harlo Holmes,** Director of Newsroom Digital Security at Freedom of the Press Foundation. Harlo is a media scholar, software programmer, and activist and contributes regularly to the open source mobile security collective The Guardian Project.
 
-**Danny O'Brien**, International Director at EFF. Previously, Danny
-headed the Internet Program at the Committee to Protect Journalists.  
+**Danny O'Brien**, International Director at EFF. Previously, Danny headed the Internet Program at the Committee to Protect Journalists.  
 
 **Jamie Tomasello**, Manager, Trust and Compliance at Duo Security. Previously, Jamie has been the Technology Director for Access Now and Head of Policy and Investigation at Cloudflare, and is a Certified Information Privacy Professional (CIPP) and Certified Information Privacy Technologist (CIPT).
+
+**Ethan Zuckerman**, director of the Center for Civic Media at MIT, and an Associate Professor of the Practice at the MIT Media Lab.
