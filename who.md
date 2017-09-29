@@ -14,9 +14,11 @@ Josh is a longtime campaign strategist and digital rights advocate. For more tha
 
 **Nathan Freitas** leads the Guardian Project, an open-source mobile security software project, and directs technology strategy and training at the Tibet Action Institute.
 
+**Sara Haghdoosti,** founded Berim.org, an organization focused on supporting Iranian changemakers. She is also a campaigns expert that has worked with groups such as Mozilla, Change.org, GetUp and others.
+
 **Matt Holland,** co-founder of Affinity.works. Tech advisor to international NGO's, previously CTO at Avaaz.org.
 
-**Harlo Holmes,** Director of Newsroom Digital Security at Freedom of the Press Foundation. Harlo is a media scholar, software programmer, and activist and contributes regularly to the open source mobile security collective The Guardian Project. 
+**Harlo Holmes,** Director of Newsroom Digital Security at Freedom of the Press Foundation. Harlo is a media scholar, software programmer, and activist and contributes regularly to the open source mobile security collective The Guardian Project.
 
 **Danny O'Brien**, International Director at EFF. Previously, Danny
 headed the Internet Program at the Committee to Protect Journalists.  
