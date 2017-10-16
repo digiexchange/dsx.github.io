@@ -4,7 +4,7 @@ title: Opportunities
 permalink: /opportunities/
 ---
 
-**Director, Partnership and Outreach (Part-time)**
+**Director, Partnerships and Outreach (Part-time)**
 
 The Digital Security Exchange (DSX) pairs social sector organizations with credible and trustworthy digital security experts and trainers who can help them keep their data and networks safe from exposure, exploitation, and attack. We help increase the safety and security of community-based organizations, legal and journalistic organizations, local and national organizers, public and high-profile figures, and those who are working to advance social, racial, political, and economic justice in our communities and our world.
 
