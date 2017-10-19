@@ -1,6 +1,5 @@
 ---
 layout: page
-title: DSX Organizational Partners concept
 permalink: /partners/
 ---
 
