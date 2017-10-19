@@ -1,8 +1,7 @@
 ---
 layout: page
-title: DSX Organizational Partners concept 
+title: DSX Organizational Partners concept
 permalink: /partners/
-published: false
 ---
 
 # Digital Security Exchange (DSX) Organizational Partner Concept
