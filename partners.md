@@ -3,8 +3,6 @@ layout: page
 permalink: /partners/
 ---
 
-# Digital Security Exchange (DSX) Organizational Partner Concept
-
 The DSX pairs social sector organizations with credible and trustworthy digital security experts and trainers who can help them keep their data and networks safe from exposure, exploitation, and attack.
 
 We help increase the safety and security of community-based organizations, legal and journalistic organizations, local and national organizers, public and high-profile figures, and those who are working to advance social, racial, political, and economic justice in our communities and our world. We do this by forming informal and formal partnerships with these organizations, helping address immediate needs by connecting organizations to rapid response incident handlers, and working together to assess and address organizations' needs, address short-term security challenges, and develop long-term capacity building strategies.
