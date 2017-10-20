@@ -4,7 +4,7 @@ permalink: /partners/
 ---
 **Organizational Partners**
 
-We are currently building an Organization Partner program, designed to help nonprofit organizations and other groups have ongoing access to digital security providers and strategic thinking from DSX staff. Org partners will have access to our backend system allowing them to create profiles articulating their needs, connect directly to digital security providers within the DSX network, and receive notifications and updates about current threats and digital security trends.
+We are currently building an Organization Partner program, designed to give nonprofit organizations and other groups ongoing access to digital security providers and strategic thinking from DSX staff. Org partners will have access to our backend system allowing them to create profiles articulating their needs, connect directly to digital security providers within the DSX network, and receive notifications and updates about current threats and digital security trends.
 
 There will be two models of support:
 1. Quick handoffs to participating providers
