@@ -12,13 +12,13 @@ We are currently building an Organization Partner program, designed to give nonp
 
 **Director, Partnerships and Outreach (Part-time)**
 
-The Digital Security Exchange (DSX) pairs social sector organizations with credible and trustworthy digital security experts and trainers who can help them keep their data and networks safe from exposure, exploitation, and attack. We help increase the safety and security of community-based organizations, legal and journalistic organizations, local and national organizers, public and high-profile figures, and those who are working to advance social, racial, political, and economic justice in our communities and our world.
+The Digital Security Exchange (DSX) pairs U.S. social sector organizations with credible and trustworthy digital security experts and trainers who can help them keep their data and networks safe from exposure, exploitation, and attack. We help increase the safety and security of community-based organizations, legal and journalistic organizations, local and national organizers, public and high-profile figures, and those who are working to advance social, racial, political, and economic justice in our communities and our world.
 
 The DSX was started in spring 2017 and has since grown to include a network of nearly a dozen digital security providers, several partner organizations, and strategic partnerships with other likeminded projects.
 
 The next six months will also see the launch of DSX’s organizational partnership program, overseen by the Director of Outreach and Partnerships. This position will help develop and launch DSX’s organizational partnership program by conducting outreach to diverse organizations seeking digital security assistance, helping to envision DSX's approach to partner organizations, developing an "onboarding" workflow for new partners, documenting other ways partners can engage with the project, and helping to draft public documentation on the DSX's values and mission and its commitment to the privacy and security of its users and partners.
 
-This a part-time, contract position that could evolve into a full-time position in 2018. It's a great opportunity to help direct the course of the DSX and its mission to make digital security more accessible to nonprofits, journalists, and other social sector groups.
+This a part-time, U.S.-based contract position that could evolve into a full-time position in 2018. It's a great opportunity to help direct the course of the DSX and its mission to make digital security more accessible to nonprofits, journalists, and other social sector groups.
 
 **Organizational outreach:**
 
