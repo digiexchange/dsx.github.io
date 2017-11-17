@@ -36,7 +36,7 @@ This a part-time, U.S.-based contract position that could evolve into a full-tim
 
 * With the DSX founder/director, develop and execute large- and small-scale fundraising strategies
 * Help map out backend technology and infrastructure that can support the DSX's approach to provider intake and organizational partnerships
-* Help envision the future of DSX: How it can work wither diverse communities across the U.S. and grow the ability for security experts to support the work of nonprofits, journalists, and other social sector groups.
+* Help envision the future of DSX: How it can work with diverse communities across the U.S. and grow the ability for security experts to support the work of nonprofits, journalists, and other social sector groups.
 
 **Relevant qualifications:**
 
