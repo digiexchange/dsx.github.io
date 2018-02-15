@@ -25,6 +25,6 @@ The last year has also helped us understand what kind of organizations could use
 
 To further our goal of providing that help, we’ve developed a strong network of more than a dozen trusted digital security providers who can address incoming requests.
 
-There will be much more to share soon! In the meantime, please send a note to [josh@digitalsecurityexchange.org](mailto:josh@digitalsecurityexchange.org) if your organization is interested getting assistance, if you would like to request to join our provider network, or if you have other ideas for getting involved.
+There will be much more to share soon! In the meantime, please send a note to [josh@digitalsecurityexchange.org](mailto:info@digitalsecurityexchange.org) if your organization is interested getting assistance, if you would like to request to join our provider network, or if you have other ideas for getting involved.
 
-We’re grateful to Omidyar Network, Mozilla Foundation, and Small Media Foundation for their financial contributions to DSX in 2017. We’re now seeking financial support help to carry this work through 2018.  Please [email me](mailto:josh@digitalsecurityexchange.org) if you are interesting in contributing.
+We’re grateful to Omidyar Network, Mozilla Foundation, and Small Media Foundation for their financial contributions to DSX in 2017. We’re now seeking financial support help to carry this work through 2018.  Please [contact us](mailto:info@digitalsecurityexchange.org) if you are interesting in contributing.
